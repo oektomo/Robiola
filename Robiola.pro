@@ -1,4 +1,4 @@
-update=Sab 16 Sep 2017 08:30:10  WIB
+update=Rab 27 Sep 2017 08:47:28  WIB
 version=1
 last_client=kicad
 [general]
@@ -60,5 +60,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/otm2/gitw/Hibah2017/schematic/libraries/bluepill
-LibName31=/home/otm2/gitw/Kicadlib/lm2596
+LibName30=/home/otm2/gitw/Kicadlib/lm2596
+LibName31=/home/otm2/kicadw/kicad-libs/tp4056
+LibName32=/home/otm2/kicadw/currentMeter/ZXCT1009/bluepill
