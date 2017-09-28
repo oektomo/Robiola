@@ -60,67 +60,67 @@ $EndComp
 $Comp
 L Conn_01x03 J5
 U 1 1 59BC7E4D
-P 6300 1700
-F 0 "J5" H 6380 1742 50  0000 L CNN
-F 1 "Conn_01x03" H 6380 1651 50  0000 L CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 6300 1700 50  0001 C CNN
-F 3 "" H 6300 1700 50  0001 C CNN
-	1    6300 1700
+P 5250 2800
+F 0 "J5" H 5330 2842 50  0000 L CNN
+F 1 "Conn_01x03" H 5330 2751 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 5250 2800 50  0001 C CNN
+F 3 "" H 5250 2800 50  0001 C CNN
+	1    5250 2800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Conn_01x03 J7
 U 1 1 59BC7ED5
-P 7200 1700
-F 0 "J7" H 7280 1742 50  0000 L CNN
-F 1 "Conn_01x03" H 7280 1651 50  0000 L CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 7200 1700 50  0001 C CNN
-F 3 "" H 7200 1700 50  0001 C CNN
-	1    7200 1700
+P 6150 2800
+F 0 "J7" H 6230 2842 50  0000 L CNN
+F 1 "Conn_01x03" H 6230 2751 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 6150 2800 50  0001 C CNN
+F 3 "" H 6150 2800 50  0001 C CNN
+	1    6150 2800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Conn_01x03 J9
 U 1 1 59BC7F81
-P 8050 1700
-F 0 "J9" H 8130 1742 50  0000 L CNN
-F 1 "Conn_01x03" H 8130 1651 50  0000 L CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 8050 1700 50  0001 C CNN
-F 3 "" H 8050 1700 50  0001 C CNN
-	1    8050 1700
+P 7000 2800
+F 0 "J9" H 7080 2842 50  0000 L CNN
+F 1 "Conn_01x03" H 7080 2751 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 7000 2800 50  0001 C CNN
+F 3 "" H 7000 2800 50  0001 C CNN
+	1    7000 2800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Conn_01x03 J6
 U 1 1 59BC81CC
-P 6300 2150
-F 0 "J6" H 6380 2192 50  0000 L CNN
-F 1 "Conn_01x03" H 6380 2101 50  0000 L CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 6300 2150 50  0001 C CNN
-F 3 "" H 6300 2150 50  0001 C CNN
-	1    6300 2150
+P 5250 3250
+F 0 "J6" H 5330 3292 50  0000 L CNN
+F 1 "Conn_01x03" H 5330 3201 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 5250 3250 50  0001 C CNN
+F 3 "" H 5250 3250 50  0001 C CNN
+	1    5250 3250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Conn_01x03 J8
 U 1 1 59BC81D3
-P 7200 2150
-F 0 "J8" H 7280 2192 50  0000 L CNN
-F 1 "Conn_01x03" H 7280 2101 50  0000 L CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 7200 2150 50  0001 C CNN
-F 3 "" H 7200 2150 50  0001 C CNN
-	1    7200 2150
+P 6150 3250
+F 0 "J8" H 6230 3292 50  0000 L CNN
+F 1 "Conn_01x03" H 6230 3201 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 6150 3250 50  0001 C CNN
+F 3 "" H 6150 3250 50  0001 C CNN
+	1    6150 3250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Conn_01x03 J10
 U 1 1 59BC81DA
-P 8050 2150
-F 0 "J10" H 8130 2192 50  0000 L CNN
-F 1 "Conn_01x03" H 8130 2101 50  0000 L CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 8050 2150 50  0001 C CNN
-F 3 "" H 8050 2150 50  0001 C CNN
-	1    8050 2150
+P 7000 3250
+F 0 "J10" H 7080 3292 50  0000 L CNN
+F 1 "Conn_01x03" H 7080 3201 50  0000 L CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 7000 3250 50  0001 C CNN
+F 3 "" H 7000 3250 50  0001 C CNN
+	1    7000 3250
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -269,7 +269,7 @@ U 1 1 59CB9739
 P 650 950
 F 0 "BT1" H 758 996 50  0000 L CNN
 F 1 "Battery" H 758 905 50  0000 L CNN
-F 2 "diy-modules:diy-modules-BATTERY-LI-MH12210" V 650 1010 50  0001 C CNN
+F 2 "Battery_Holders:Keystone_1042_1x18650" V 650 1010 50  0001 C CNN
 F 3 "" V 650 1010 50  0001 C CNN
 	1    650  950 
 	1    0    0    -1  
@@ -293,4 +293,99 @@ Wire Wire Line
 	1150 1100 1150 1150
 Wire Wire Line
 	1150 1150 650  1150
+Text Label 2450 750  0    60   ~ 0
++5v
+Text Label 6800 3250 2    60   ~ 0
++5v
+Text Label 6800 2800 2    60   ~ 0
++5v
+Text Label 5950 3250 2    60   ~ 0
++5v
+Text Label 5950 2800 2    60   ~ 0
++5v
+Text Label 5050 2800 2    60   ~ 0
++5v
+Text Label 5050 3250 2    60   ~ 0
++5v
+Text Label 2800 1100 0    60   ~ 0
+GND
+Text Label 5050 2900 2    60   ~ 0
+GND
+Text Label 5950 2900 2    60   ~ 0
+GND
+Text Label 6800 2900 2    60   ~ 0
+GND
+Text Label 6800 3350 2    60   ~ 0
+GND
+Text Label 5950 3350 2    60   ~ 0
+GND
+Text Label 5050 3350 2    60   ~ 0
+GND
+Wire Wire Line
+	3250 3350 3450 3350
+Connection ~ 3350 3350
+Text Label 3450 3350 3    60   ~ 0
+GND
+$Comp
+L Battery_Cell BT2
+U 1 1 59CC5E06
+P 2700 1250
+F 0 "BT2" V 2445 1300 50  0000 C CNN
+F 1 "Battery_Cell" V 2536 1300 50  0000 C CNN
+F 2 "Battery_Holders:Keystone_104_1x23mm-CoinCell" V 2700 1310 50  0001 C CNN
+F 3 "" V 2700 1310 50  0001 C CNN
+	1    2700 1250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2900 1250 3050 1250
+Wire Wire Line
+	2600 1250 2450 1250
+Wire Wire Line
+	2450 1250 2450 1100
+Connection ~ 2450 1100
+Text Label 2100 1800 0    60   ~ 0
+PA0
+Text Label 2100 1900 0    60   ~ 0
+PA1
+Text Label 2100 2000 0    60   ~ 0
+PA2
+Text Label 2100 2100 0    60   ~ 0
+PA3
+Text Label 2100 2200 0    60   ~ 0
+PA4
+Text Label 2100 2300 0    60   ~ 0
+PA5
+Text Label 2100 2400 0    60   ~ 0
+PA6
+Text Label 2100 2500 0    60   ~ 0
+PA7
+Text Label 5050 2700 2    60   ~ 0
+PA0
+Text Label 5050 3150 2    60   ~ 0
+PA1
+Text Label 5950 2700 2    60   ~ 0
+PA2
+Text Label 5950 3150 2    60   ~ 0
+PA3
+Text Label 6800 2700 2    60   ~ 0
+PA4
+Text Label 6800 3150 2    60   ~ 0
+PA6
+Text Label 5050 2200 2    60   ~ 0
+PB3
+Text Label 5050 2100 2    60   ~ 0
+PB4
+Text Label 5050 2000 2    60   ~ 0
+PB5
+Text Label 5050 1900 2    60   ~ 0
+PB6
+Text Label 5050 1800 2    60   ~ 0
+PB7
+Text Label 5050 1700 2    60   ~ 0
+PB8
+Text Label 5050 1600 2    60   ~ 0
+PB8
+Text Label 5050 1500 2    60   ~ 0
+PB9
 $EndSCHEMATC
