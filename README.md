@@ -10,4 +10,5 @@ This is the feature we want this things will have:
 * adding Battery
 * adding Battery Charger
 * adding Battery circuit safer
-
+* adding USART
+* adding display?

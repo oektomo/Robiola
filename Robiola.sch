@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2
+EESchema Schematic File Version 3
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -133,17 +133,6 @@ F 2 "Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm" H 1850 2100 50  0001 C CN
 F 3 "" H 1850 2100 50  0001 C CNN
 	1    1850 2100
 	-1   0    0    -1  
-$EndComp
-$Comp
-L Conn_02x08_Counter_Clockwise J4
-U 1 1 59BC840E
-P 5700 1800
-F 0 "J4" H 5750 2317 50  0000 C CNN
-F 1 "Conn_02x08_Counter_Clockwise" H 5750 2226 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm" H 5700 1800 50  0001 C CNN
-F 3 "" H 5700 1800 50  0001 C CNN
-	1    5700 1800
-	1    0    0    -1  
 $EndComp
 $Comp
 L LM2596 U1
@@ -388,4 +377,15 @@ Text Label 5050 1600 2    60   ~ 0
 PB8
 Text Label 5050 1500 2    60   ~ 0
 PB9
+$Comp
+L Conn_02x08_Odd_Even J4
+U 1 1 59CD101B
+P 5700 1800
+F 0 "J4" H 5750 2317 50  0000 C CNN
+F 1 "Conn_02x08_Odd_Even" H 5750 2226 50  0000 C CNN
+F 2 "" H 5700 1800 50  0001 C CNN
+F 3 "" H 5700 1800 50  0001 C CNN
+	1    5700 1800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

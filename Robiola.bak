@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2
+EESchema Schematic File Version 3
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -135,17 +135,6 @@ F 3 "" H 1850 2100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Conn_02x08_Counter_Clockwise J4
-U 1 1 59BC840E
-P 5700 1800
-F 0 "J4" H 5750 2317 50  0000 C CNN
-F 1 "Conn_02x08_Counter_Clockwise" H 5750 2226 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm" H 5700 1800 50  0001 C CNN
-F 3 "" H 5700 1800 50  0001 C CNN
-	1    5700 1800
-	1    0    0    -1  
-$EndComp
-$Comp
 L LM2596 U1
 U 1 1 59BC8681
 P 1700 900
@@ -269,7 +258,7 @@ U 1 1 59CB9739
 P 650 950
 F 0 "BT1" H 758 996 50  0000 L CNN
 F 1 "Battery" H 758 905 50  0000 L CNN
-F 2 "diy-modules:diy-modules-BATTERY-LI-MH12210" V 650 1010 50  0001 C CNN
+F 2 "Battery_Holders:Keystone_1042_1x18650" V 650 1010 50  0001 C CNN
 F 3 "" V 650 1010 50  0001 C CNN
 	1    650  950 
 	1    0    0    -1  
@@ -332,7 +321,7 @@ U 1 1 59CC5E06
 P 2700 1250
 F 0 "BT2" V 2445 1300 50  0000 C CNN
 F 1 "Battery_Cell" V 2536 1300 50  0000 C CNN
-F 2 "" V 2700 1310 50  0001 C CNN
+F 2 "Battery_Holders:Keystone_104_1x23mm-CoinCell" V 2700 1310 50  0001 C CNN
 F 3 "" V 2700 1310 50  0001 C CNN
 	1    2700 1250
 	0    1    1    0   
@@ -388,4 +377,15 @@ Text Label 5050 1600 2    60   ~ 0
 PB8
 Text Label 5050 1500 2    60   ~ 0
 PB9
+$Comp
+L Conn_02x08_Odd_Even J?
+U 1 1 59CD101B
+P 5700 1800
+F 0 "J?" H 5750 2317 50  0000 C CNN
+F 1 "Conn_02x08_Odd_Even" H 5750 2226 50  0000 C CNN
+F 2 "" H 5700 1800 50  0001 C CNN
+F 3 "" H 5700 1800 50  0001 C CNN
+	1    5700 1800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
