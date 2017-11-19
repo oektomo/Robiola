@@ -12,7 +12,8 @@ This is the feature we want this things will have:
 - [ ] adding Battery circuit safer  
 - [x] adding USART
 - [ ] adding display?
-- [x] LED 3.3V Power indicator
+- [x] LED 5V Power indicator
+- [ ] Perhaps adding selector for power?
 - [x] Switch On-Off indicator
 - [ ] SWO debug pin breakout
 
